@@ -63,12 +63,12 @@ export default function Home() {
       image: "/setyobarber.png",
     },
     {
-      title: "Fintech Dashboard",
-      description: "Studi kasus visualisasi data keuangan menggunakan library charting modern.",
-      tags: ["Next.js", "Chart.js", "Tailwind"],
+      title: "Masjid Baiturrohiem",
+      description: "Kanal informasi dan kegiatan Masjid Baiturrohiem dengan desain modern dan responsif.",
+      tags: ["Next.js", "Tailwind"],
       color: "from-blue-600/10 to-transparent",
-      link: "#",
-      icon: <Code2 className="text-blue-600" size={40} />,
+      link: "https://masjidbaiturrohiem.vercel.app/",
+       image: "/masjid1.png",
     },
   ];
 
